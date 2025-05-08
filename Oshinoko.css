@@ -1,3 +1,12 @@
+.chat-main {
+    background-image: url('https://raw.githubusercontent.com/ElGatoDev/charinfo/refs/heads/gifs/ai-hoshino.gif') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.85);
+    background-blend-mode: multiply;
+}
+
 :root {
     --background-rgb: 17, 24, 39;
     --accent-rgb: 96, 165, 250;
@@ -9,15 +18,6 @@
         --accent-rgb: 59, 130, 246;
         --foreground: #111827;
     }
-}
-
-.chat-main {
-    background-image: url('https://raw.githubusercontent.com/ElGatoDev/charinfo/refs/heads/gifs/ai-hoshino.gif') !important;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: rgba(0, 0, 0, 0.85);
-    background-blend-mode: multiply;
 }
 
 .story-container {
